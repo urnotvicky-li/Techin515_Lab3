@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TECHIN515 Lab 3: ESP32 Sorting Hat
 
 ## Overview
@@ -140,3 +141,7 @@ Submit a GitHub link containing:
 3. Brief documentation of your implementation and answers to questions in lab manual
 
 # Modified to trigger Git
+=======
+# Techin515_Lab3
+ sorting hat
+>>>>>>> 10db04679f56c3307ca08a6a414d498d08a33dbb
