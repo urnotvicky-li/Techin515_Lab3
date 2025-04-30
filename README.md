@@ -2,8 +2,10 @@
 # TECHIN515 Lab 3: ESP32 Sorting Hat
 
 
-# Disscusion Questions:
+## Disscusion Questions:
+
 - Play with your sorting hat. Are all 10 questions important to create the sorting hat? If you were to remove some questions to improve user experience, which questions would you remove and justify your answer.
+  After I tested out the sorting hat, not all 10 questions needed to be related to the final classification. 
 - If you were to improve the sorting hat, what technical improvements would you make? Consider:
 - How could you improve the model's accuracy or efficiency?
 - What additional sensors or hardware could enhance the user experience?
