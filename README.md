@@ -5,16 +5,16 @@
 ## Disscusion Questions:
 
 #### - Play with your sorting hat. Are all 10 questions important to create the sorting hat? If you were to remove some questions to improve user experience, which questions would you remove and justify your answer. <br/>
-  After I tested out the sorting hat, not all 10 questions needed to be related to the final classification.
+  After I tested out the sorting hat, not all 10 questions needed to be related to the final classification. Some of them feel repetitive or less connected to the house traits. I’d keep around 6–7 core questions that are more clear and directly tied to values.
   
 #### - If you were to improve the sorting hat, what technical improvements would you make? Consider:<br/>
-
+Adding small improvements to the user experience, like sound or lights. For example, a buzzer that plays a sound when the sorting is done, or LEDs that light up in house colors.
 
 #### - How could you improve the model's accuracy or efficiency?<br/>
-
+Making more data set to make sure the accuracy is high enough.
 
 #### - What additional sensors or hardware could enhance the user experience?<br/>
-
+I am currently using a tiny button and change it to a bigger one might improve the usability. Adding a small speaker could make it more magical.
 
 #### - Does decision tree remain suitable for your choice of new sensors? If yes, carefully justify your answer. If not, what ML model would you use and explain why.<br/>
 The decision tree still suitable for the new sensor for four simple button inputs. Once the output becomes complex like voice or body movement dectection, it might not be the best way to work well. 
